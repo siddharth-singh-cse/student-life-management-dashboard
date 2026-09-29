@@ -1,5 +1,6 @@
 # 🎓 Student Life Management Dashboard
 
+![Student Life Management Dashboard Preview](project-preview.png)
 A beginner-friendly Python project that manages student information, academic performance, college fees, monthly expenses, eligibility checks, and progress tracking.
 
 ## 🚀 Features
